@@ -1,5 +1,5 @@
-let num = 100.12;
-num=10.54
+let num = 10001;
+
 //Returns 'undefined'.
 console.log(num.length);
 
